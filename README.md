@@ -1,12 +1,14 @@
 # AbiPhysics
 DE:
-Rechner für Physik-Formeln die ich wären des Lockdown, für die Schule Gemacht habe.
+Rechner für Physik-Formeln.
 Für Exponenten wird zahlE+8 benutz.
 
-Bin offen für Verbesserung und Kritik, damit ich mich Verbessern kann.
+Made with love by HAN3-1 RWB-Essen
+Sind offen für Verbesserung und Kritik, damit ich mich Verbessern kann.
 
 ENG:
-Calculator for physics formulas that I made for school during the lockdown.
+Calculator for physics formulas.
 For expoments must be used nummberE+8.
 
-Im open for improvment and critics, so i can improve myself.
+made with love by HAN3-1 RWB-Essen
+We´re open for improvment and critics, so i can improve myself.
