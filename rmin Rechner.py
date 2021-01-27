@@ -18,3 +18,5 @@ Rmin2 =float(pi * E * 2 * Ekin)
 Rmin  = float(Rmin1/Rmin2)
 
 print("rmin =",Rmin)
+
+LogOut = input("Exit: Klick Enter")
