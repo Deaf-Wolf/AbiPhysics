@@ -17,6 +17,10 @@ elif Auswahl == "Strahlung":
     Wl = float(input("λ="))
     Eel= f"{h*c/Wl}"
     print("Eel=",Eel)
+elif Auswahl == "Impluse":
+    Wl = float(input("λ="))
+    p=f"{h/Wl}"
+    print("pph=",p)
 
 
 
